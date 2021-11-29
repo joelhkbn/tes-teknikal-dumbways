@@ -5,7 +5,7 @@ Program-program yang dibuat pada repository ini untuk menjawab soal test teknika
 Ada 4 kode sumber yang dibuat sesuai dengan soal yang tersedia. 3 kode sumber menggunakan javascript dan 1 kode sumber menggunakan php.
 
 ## persiapan
-yang perlu dipersiapkan untuk menjalankan program yang tersedian adalah
+yang perlu dipersiapkan untuk menjalankan program :
 * vscode
 * xampp (untuk menjalankan file php pada locahost dan membuat database)
 * browser
